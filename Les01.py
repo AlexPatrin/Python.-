@@ -1,3 +1,1 @@
-#комментарий
-print("Hello")
-import()
+print("First programm on geekBrains")
